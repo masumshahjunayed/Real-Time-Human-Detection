@@ -3,18 +3,18 @@ Real-Time-Human-Detection using Deep Learning
 
 Table of Contents
 Real-time object detection with deep learning and OpenCV
-Introduction
-Ubuntu 16+: How to install OpenCV
-#1. Install OpenCV dependencies.
-#2. Download OpenCV
-#3. Setup your python environment (3+)
-Creating your Python environment.
-Verifying that you are in the “cv” virtual environment
-Install NumPy into your Python virtual environment
-#4. Configuring and compiling OpenCV
-#5. Finish your OpenCV installation
-For Python 2.7:
-For Python 3.5:
+-Introduction
+-Ubuntu 16+: How to install OpenCV
+1. Install OpenCV dependencies.
+2. Download OpenCV
+3. Setup your python environment (3+)
+-Creating your Python environment.
+-Verifying that you are in the “cv” virtual environment
+-Install NumPy into your Python virtual environment
+4. Configuring and compiling OpenCV
+5. Finish your OpenCV installation
+
+-For Python 3.5:
 #6. Testing your OpenCV installation
 Object detection in video with deep learning and OpenCV - Real-time deep learning object detection results
 Bibliography & sources
